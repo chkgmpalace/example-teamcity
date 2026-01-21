@@ -6,13 +6,8 @@
 - [Скриншот 1.4.2](screenshots/image_1.4.1.jpg)
 5. [Скриншот 1.5](screenshots/image_1.5.jpg)
 - Потребовались только кредлы, так как **Nexus**  работает по `https``
-6. check.
 7. [Скриншот 1.7](screenshots/image_1.7.jpg)
 8. [Скриншот 1.8](screenshots/image_1.8.jpg)
-9. check
-10. check
-11. check
-12. check
 13. [Скриншот 1.13](screenshots/image_1.13.jpg)
 14. [pull request](https://github.com/chkgmpalace/example-teamcity/pull/1)
 15. check
